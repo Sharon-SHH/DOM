@@ -1,0 +1,17 @@
+.container{
+
+    &__highlight{
+        background-color: yellow;
+    }
+}
+
+.message{
+    color:blue;
+    &--error{
+        color: red
+    }
+}
+
+.hidden{
+    visibility: hidden;
+}

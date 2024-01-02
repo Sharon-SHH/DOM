@@ -1,0 +1,14 @@
+.container__highlight {
+  background-color: yellow;
+}
+
+.message {
+  color: blue;
+}
+.message--error {
+  color: red;
+}
+
+.hidden {
+  visibility: hidden;
+}/*# sourceMappingURL=styles.css.map */
