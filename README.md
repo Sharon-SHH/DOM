@@ -4,7 +4,7 @@ Apply the DOM methods and properties:
   - document.querySelector('p'); // matches the specified CSS selector  
   - document.querySelectorAll('.alert'); //class="alert";
   - document.createElement();
-  - parent.removeChild(child);
+
 
 
 Useful properties of element:
@@ -14,5 +14,6 @@ Useful properties of element:
   - Element.classList.add(), .remove(), .contains() //return true, .toggle() //toggles class on and off. 
   - Element.getAttribute()
   - Element.appendChild()
+  - parent.removeChild(child);
 
 
